@@ -9,3 +9,4 @@ git remote add origin
 git status
 git add
 git commit
+git push origin master
