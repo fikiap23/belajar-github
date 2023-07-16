@@ -15,5 +15,6 @@ git branch
 git branch <nama_branch>
 git checkout <nama_branch>
 git merge
+git branch -dosen
 
 git push origin master
