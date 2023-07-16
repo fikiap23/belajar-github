@@ -2,6 +2,9 @@
 
 Berikut ini adalah perintah-perintah Git yang diminta, termasuk dalam tabel:
 
+hapus branch: git push origin --delete feature-branch
+
+
 | Perintah Git                                              | Contoh                                                   | Penjelasan                                                                                          |
 | --------------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | `git config --global user.name "Fiki Aprian"`             | -                                                        | Mengatur nama pengguna Git secara global.                                                           |
