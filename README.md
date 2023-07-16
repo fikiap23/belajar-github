@@ -10,4 +10,9 @@ git status
 git add
 git commit
 git log
+git log --all --decorate --oneline --graph
+git branch
+git branch <nama_branch>
+git checkout <nama_branch>
+
 git push origin master
